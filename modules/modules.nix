@@ -56,6 +56,7 @@ let
     ./programs/obs-studio.nix
     ./programs/offlineimap.nix
     ./programs/pidgin.nix
+    ./programs/pywal.nix
     ./programs/rofi.nix
     ./programs/ssh.nix
     ./programs/taskwarrior.nix
